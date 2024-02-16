@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/marit/OneDrive/Documentos/NetBeansProjects/Tienda/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/marit/OneDrive/Documentos/NetBeansProjects/Tienda/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Tienda 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Tienda 1.0-SNAPSHOT API'
+mundo
+umariana.tienda
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\src\main\java = 1708015319705
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\allclasses-index.html = 1708028959841
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\allpackages-index.html = 1708028959846
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\copy.svg = 1708028959910
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\element-list = 1708028959748
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\help-doc.html = 1708028959896
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\index-all.html = 1708028959878
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\index.html = 1708028959819
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\link.svg = 1708028959913
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\member-search-index.js = 1708028959854
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\module-search-index.js = 1708028959848
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\overview-summary.html = 1708028959887
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\overview-tree.html = 1708028959813
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\package-search-index.js = 1708028959850
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\script.js = 1708028959906
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\search-page.js = 1708028959931
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\search.html = 1708028959882
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\search.js = 1708028959923
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\stylesheet.css = 1708028959902
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\tag-search-index.js = 1708028959856
+C:\Users\marit\OneDrive\Documentos\NetBeansProjects\Tienda\target\site\apidocs\type-search-index.js = 1708028959852
