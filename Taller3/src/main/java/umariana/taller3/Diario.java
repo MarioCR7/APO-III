@@ -1,4 +1,6 @@
-
+/*
+@ Mario Caicedo - David Pasaje
+*/
 package umariana.taller3;
 
 import mundo.Entrada;
